@@ -1,0 +1,22 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "mw.mws-utils",
+	"name": "mws utils",
+	"version": "v1.0.0",
+	"developer": "mw",
+	"description": "blue imgui utils",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0",
+		"geode.custom-keybinds": {
+			"id": "geode.custom-keybinds",
+			"version": "v1.1.0",
+			"importance": "required"
+		}
+	}
+}
